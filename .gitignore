@@ -1,0 +1,59 @@
+app-alcancia/.DS_Store
+app-alcancia/node_modules
+app-alcancia/dist
+
+
+# local env files
+app-alcancia/.env.local
+app-alcancia/.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+app-alcancia/.idea
+app-alcancia/.vscode
+app-alcancia/*.suo
+app-alcancia/*.ntvs*
+app-alcancia/*.njsproj
+app-alcancia/*.sln
+app-alcancia/*.sw?
+
+### BackEnd Proyect ###
+
+BackEndAppAlcancia/HELP.md
+BackEndAppAlcancia/target/
+BackEndAppAlcancia/!.mvn/wrapper/maven-wrapper.jar
+BackEndAppAlcancia/!**/src/main/**/target/
+BackEndAppAlcancia/!**/src/test/**/target/
+
+### STS ###
+BackEndAppAlcancia/.apt_generated
+BackEndAppAlcancia/.classpath
+BackEndAppAlcancia/.factorypath
+BackEndAppAlcancia/.project
+BackEndAppAlcancia/.settings
+BackEndAppAlcancia/.springBeans
+BackEndAppAlcancia/.sts4-cache
+
+### IntelliJ IDEA ###
+BackEndAppAlcancia/.idea
+BackEndAppAlcancia/*.iws
+BackEndAppAlcancia/*.iml
+BackEndAppAlcancia/*.ipr
+
+### NetBeans ###
+BackEndAppAlcancia/nbproject/private/
+BackEndAppAlcancia/nbbuild/
+BackEndAppAlcancia/dist/
+BackEndAppAlcancia/nbdist/
+BackEndAppAlcancia/.nb-gradle/
+BackEndAppAlcancia/build/
+BackEndAppAlcancia/!**/src/main/**/build/
+BackEndAppAlcancia/!**/src/test/**/build/
+
+### VS Code ###
+BackEndAppAlcancia/.vscode/
